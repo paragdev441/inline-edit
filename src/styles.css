@@ -1,0 +1,12 @@
+input {
+  border: 0;
+}
+
+.text-main-block {
+  margin-top: 15px;
+  text-align: center;
+}
+
+td {
+  text-align-last: center;
+}
